@@ -1,0 +1,117 @@
+body{
+	background-image: url(./images/fondo.jpg);
+}
+#login{
+	text-align: right;
+}
+#banner{
+	text-align: center;
+}
+.imagenp{
+	border-radius: 60px;
+}
+.comentario{
+	background-color: ghostwhite;
+	margin: 30px auto;
+	padding: 20px 10px;
+	width: 70%;
+	border-radius: 30px;
+	text-align: center;
+}
+#busqueda{
+	text-align: center;
+	margin: 20px auto;
+	width: 70%;
+	border-radius: 20px;
+	padding: 10px 10px;
+}
+.mensaje{
+	font-size: 20px;
+	color: red;
+	text-align: center;
+	background-color: greenyellow;
+	width: 40%;
+	margin: 0 auto;
+	border-radius: 20px;
+}
+#izquierda{
+}
+#fotito{
+	margin: 0px 50px;
+	width: 200px;
+	height: 300px;
+	float: left;
+}
+#descripcion{
+	height: 300px;
+	margin: 20px 20px;
+	float: left;
+}
+.peli{
+	margin: 20px auto;
+	width: 800px;
+	height: 300px;
+	background-color: gainsboro;
+	border-radius: 40px;
+	padding: 20px 20px;
+}
+.peli2{
+	text-align: center;
+	margin: 20px auto;
+	width: 800px;
+	background-color: gainsboro;
+	border-radius: 40px;
+	padding: 20px 20px;
+	
+}
+.paginado{
+	text-align: center;
+	font-size: 20px;
+	color: red;
+}
+.ttitulo{
+	margin: 0 auto;
+	border-radius: 20px;
+	text-align: center;
+	color: red;
+	font-size: 30px;
+	background-color: ghostwhite;
+	width: 50%;
+}
+.hr1{
+	width: 60%;
+	height: 5px;
+	color: red;
+	background-color: red;
+	border-radius: 20px;
+}
+.hr2{
+	width: 40%;
+	height: 5px;
+	color: red;
+	background-color: red;
+	border-radius: 20px;
+}
+.npeli{
+	font-size: 20px;
+	text-align: center;
+}
+.caja{
+	border-radius: 20px;
+	width: 50%;
+	background-color: ghostwhite;
+	text-align: center;
+	margin: 30px auto;
+}
+#textsmall{
+	color: green;
+}
+.negrita{
+	font-size: 20px
+}
+.bboton{
+	font-size: 20px;
+}
+.centro{
+	text-align: center;
+}
